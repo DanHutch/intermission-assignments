@@ -32,7 +32,7 @@ IP stands for "Internet Protocol".
 
 5. 	What does DNS stand for?
 
- -> _* A. Domain Name System_
+  * A. _Domain Name System_ <--
   * B. Digital Number System
   * C. Domain Number System
   * D. Domain Name Service
@@ -46,7 +46,7 @@ This is mapped by the DNS server, which matches domain names to appropriate IP a
 
   * A. A purchaser
   * B. Internet shopping customer (Consumer)
- -> _* C. The software which requests information from a server (browser)_
+  * C. _The software which requests information from a server (browser)_ <--
   * D. The server to which a particular computer sends data
   * E. The computer which the IP address belongs to
   
@@ -59,7 +59,7 @@ This is mapped by the DNS server, which matches domain names to appropriate IP a
  * A. The standardisation of IP addressess
  * B. The DNS standard method for data transfer
  * C.	The standardised network address system
--> _* D.	The standardised method for transferring data or documents over a network_
+ * D.	_The standardised method for transferring data or documents over a network_ <---
  * E.	The standardised method for prioratising data or document storage over a network
  
 1. What does DNS stand for?
